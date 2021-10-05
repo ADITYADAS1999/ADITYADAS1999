@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ADITYADAS1999
 - 👀 I’m interested in ...PYTHON + ADVANCE DATA STRUCTURE ALGORITHM + CODING
-- 🌱 I’m currently learning ...DataStructure & Algorithm
+- 🌱 I’m currently learning ...DataStructure & Algorithm and also contribute my interest in python programming.
 -  
 - 📫 How to reach me ...Email me -> adityamca123@gmail.com
                      ...linkedin -> https://www.linkedin.com/in/aditya-das-7b2276202
