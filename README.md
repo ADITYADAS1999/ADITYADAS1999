@@ -1,5 +1,9 @@
-- 👋 Hi, I’m @ADITYADAS1999
-- 👀 I’m interested in ...PYTHON + ADVANCE DATA STRUCTURE ALGORITHM + CODING
+![Hi](https://user-images.githubusercontent.com/58718316/155718236-a33abae6-8d72-49ab-bb30-50519ca608aa.gif)I’m @ADITYADAS1999
+
+
+
+
+ I’m interested in ...PYTHON + ADVANCE DATA STRUCTURE ALGORITHM + CODING
 - 🌱 I’m currently learning ...DataStructure & Algorithm and also contribute my interest in python programming.
 -  
 - 📫 How to reach me ...Email me -> adityamca123@gmail.com
