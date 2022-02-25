@@ -8,7 +8,7 @@
 <a href="https://linkedin.com/in/aditya-das-7b2276202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya0000" height="30" width="40" /></a>
 <a href="https://instagram.com/aditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya0000" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCUBqrPu1GoR0Cfgl5rDHlbg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aditya0000" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aditya0000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aditya0000" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aditya1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aditya0000" height="30" width="40" /></a>
 </p>
 
 
