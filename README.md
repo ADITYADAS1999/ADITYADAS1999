@@ -29,11 +29,10 @@
 
 
 
- I’m interested in ...PYTHON + ADVANCE DATA STRUCTURE ALGORITHM + CODING
-- 🌱 I’m currently learning ...DataStructure & Algorithm and also contribute my interest in python programming.
+
 -  
-- 📫 How to reach me ...Email me -> adityamca123@gmail.com
-                     ...linkedin -> https://www.linkedin.com/in/aditya-das-7b2276202
+- 📫 How to reach out me ...Email me -> adityamca123@gmail.com
+ 
 
 <!---
 ADITYADAS1999/ADITYADAS1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
