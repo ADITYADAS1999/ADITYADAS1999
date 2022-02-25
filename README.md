@@ -1,5 +1,4 @@
-![Hi](https://user-images.githubusercontent.com/58718316/155718236-a33abae6-8d72-49ab-bb30-50519ca608aa.gif)I’m @ADITYADAS1999
-
+# Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aditya!
 
 
  I’m interested in ...PYTHON + ADVANCE DATA STRUCTURE ALGORITHM + CODING
