@@ -15,7 +15,7 @@
 ![E9eo-KdXoAcenAi](https://user-images.githubusercontent.com/58718316/155755304-5f35e659-41a7-4836-8d2a-6a08230ae063.png)
 
 
-
+<a><p> Hello it's Aditya, a open source contributor. I involve different open source community and contribute too. My main approach is not only involve floks in open source but also innovating folks in open source to global community. So contributing to open source and the community is my power as well as my motivation.</a></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
