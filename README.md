@@ -18,14 +18,13 @@
 <a><p> Hello it's Aditya, a open source contributor. I involve different open source community and contribute too. My main approach is not only involve floks in open source but also innovating folks in open source to global community. So contributing to open source and the community is my power as well as my motivation.</a></p>
 
 
-<body>
 
 <audio controls autoplay>
   <source src="horse.ogg" type="audio/ogg">
   <source src="music.37508d6b.mp3" type="audio/mpeg">
 </audio>
 
-</body>
+
 
 
 
