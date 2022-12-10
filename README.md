@@ -12,9 +12,7 @@
 </p>
 
 
-
-![profile_card](https://user-images.githubusercontent.com/58718316/203088974-43983aee-83e7-433c-b90e-704fdd3b359b.PNG)
-
+![36ac40a1-118b-4fb4-803b-fe7e67919a08](https://user-images.githubusercontent.com/58718316/206829699-652cea7b-f53a-4553-b958-fd0b0ea0c664.png)
 
 
 <a><p> Hello it's Aditya, a open source contributor. </a></p>
