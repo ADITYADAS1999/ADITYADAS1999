@@ -19,7 +19,7 @@
 
 <b>Scan this code or visit my linkfree profile at https://linkfree.eddiehub.io/ADITYADAS1999</b>
 
-<img src="https://user-images.githubusercontent.com/58718316/211209064-13d3d693-1ce0-4e03-a8c5-8721371c79e8.PNG" width="250" height="250"><img src="https://user-images.githubusercontent.com/58718316/211209183-29d7eebf-1930-450a-8d29-9a38b5b99f3a.gif" width="250" height="250" ><img src="https://user-images.githubusercontent.com/58718316/211209669-bc5adb93-2f09-4834-b212-c730e2b79942.jpg" width="250" height="250">
+<img src="https://user-images.githubusercontent.com/58718316/211209064-13d3d693-1ce0-4e03-a8c5-8721371c79e8.PNG" width="290" height="250"><img src="https://user-images.githubusercontent.com/58718316/211209183-29d7eebf-1930-450a-8d29-9a38b5b99f3a.gif" width="290" height="250" ><img src="https://user-images.githubusercontent.com/58718316/211209669-bc5adb93-2f09-4834-b212-c730e2b79942.jpg" width="290" height="250">
 
 
 
