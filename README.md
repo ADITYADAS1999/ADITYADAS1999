@@ -12,7 +12,13 @@
 </p>
 
 
-![36ac40a1-118b-4fb4-803b-fe7e67919a08](https://user-images.githubusercontent.com/58718316/206829699-652cea7b-f53a-4553-b958-fd0b0ea0c664.png)
+<!-- ![36ac40a1-118b-4fb4-803b-fe7e67919a08](https://user-images.githubusercontent.com/58718316/206829699-652cea7b-f53a-4553-b958-fd0b0ea0c664.png) -->
+
+
+<img width="1741" height="922" alt="Untitled" src="https://github.com/user-attachments/assets/fe276e54-caa9-4c1a-a258-91a105234ee4" />
+
+
+
 
 
 <a><p> <h1>Hello it's Aditya, an open source contributor. </h1></a></p>
